@@ -3,4 +3,4 @@
 
 ### Linux 运维
 
-> - 🔁 项目同步维护：[Github](https://github.com/dunwu/linux-tutorial/) | [Gitee](https://gitee.com/turnon/linux-tutorial/)
+- [linux-tutorial](https://github.com/dunwu/linux-tutorial/): 是一个 Linux 教程，有关 Linux 的一些知识学习。
